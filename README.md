@@ -1,10 +1,6 @@
-<h1 align="center">Advanced Auth Tutorial 🔒 </h1>
+<h1 align="center">Advanced Mern Authentication</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
-[Video Tutorial on Youtube](https://youtu.be/pmvEgZC55Cg)
-
-About This Course:
+Features of This Build:
 
 -   🔧 Backend Setup
 -   🗄️ Database Setup
@@ -27,33 +23,4 @@ About This Course:
 -   🔑 Implementing Login
 -   🏠 Dashboard Page
 -   🔄 Implementing Forgot Password
--   🚀 Super Detailed Deployment
--   ✅ This is a lot of work. Support my work by subscribing to the [Channel](https://www.youtube.com/@asaprogrammer_)
-
-### Setup .env file
-
-```bash
-MONGO_URI=your_mongo_uri
-PORT=5000
-JWT_SECRET=your_secret_key
-NODE_ENV=development
-
-MAILTRAP_TOKEN=your_mailtrap_token
-MAILTRAP_ENDPOINT=https://send.api.mailtrap.io/
-
-CLIENT_URL= http://localhost:5173
-```
-
-### Run this app locally
-
-```shell
-npm run build
-```
-
-### Start the app
-
-```shell
-npm run start
-```
-
-### I'll see you in the next one! 🚀
+-   🚀 Deployment
